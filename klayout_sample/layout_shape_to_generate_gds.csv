@@ -1,0 +1,4 @@
+cell_name,layer,bbox_x1,bbox_y1,bbox_x2,bbox_y2,is_rectangle,polygon_vertices
+cell_C,100.0,0,0,0.01,0.01,1,
+cell_C,200.0,-0.01,-0.03,0.03,0.05,1,
+cell_C,300.0,-0.03,-0.01,0.05,0.03,1,
